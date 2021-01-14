@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="left">
+  
+<h3>Hi! Glad to see you here 😉</h3>
 
-<!--
-**LeandroRezendeCoutinho/leandrorezendecoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🔎 About me</h3>
+I am a passionate software developer
 
-Here are some ideas to get you started:
+I'm currently a software engineer at [VTEX](https://vtex.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>How to reach me</h3>
+
+[LinkedIn](https://www.linkedin.com/in/leandro-rezende-coutinho-799311140/)
+
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcrmj&show_icons=true&theme=radical&count_private=true&show_icons=true" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lcrmj&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
