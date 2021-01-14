@@ -13,4 +13,4 @@ I'm currently a software engineer at [VTEX](https://vtex.com/).
 
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorezendecoutinho&show_icons=true&theme=radical&count_private=true&show_icons=true" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=leandrorezendecoutinho&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leandrorezendecoutinho&show_icons=true&theme=radical&count_private=true&show_icons=true&langs_count=8"/>
