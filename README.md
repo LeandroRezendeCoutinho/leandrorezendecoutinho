@@ -5,7 +5,7 @@
 <h3>🔎 About me</h3>
 I am a passionate software developer
 
-I'm currently a software engineer at [VTEX](https://vtex.com/).
+I'm currently a backend software engineer focused in .NET and Ruby on Rails.
 
 <h3>How to reach me</h3>
 
