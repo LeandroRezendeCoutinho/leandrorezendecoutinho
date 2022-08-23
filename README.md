@@ -5,7 +5,7 @@
 <h3>🔎 About me</h3>
 I am a passionate software developer
 
-I'm currently a backend software engineer focused in .NET and Ruby on Rails.
+I'm currently a backend software engineer focused in NodeJS and Typescript.
 
 <h3>How to reach me</h3>
 
