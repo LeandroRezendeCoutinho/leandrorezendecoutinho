@@ -13,5 +13,5 @@ I'm currently a backend software engineer focused in NodeJS and Typescript.
 
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=leandrorezendecoutinho&show_icons=true&theme=algolia&count_private=true&show_icons=true" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorezendecoutinho&show_icons=true&count_private=true&show_icons=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrorezendecoutinho&show_icons=true&count_private=true&show_icons=true&langs_count=8&theme=algolia"/>
 
